@@ -1,4 +1,4 @@
-#DRAW2DEVELOP - Deep Learning and Web Dev
+# DRAW2DEVELOP - Deep Learning and Web Dev
 
 A web application where you upload pictorial drawings of major HTML components which are transformed into a single page via Deep Learning
 
@@ -12,9 +12,14 @@ A web application where you upload pictorial drawings of major HTML components w
 
 -HTML Part : modular HTML componets with minimal CSS wich are independent and can be mixed with each other to create a web page.
 
-#MODEL
+# MODEL
 
-##Libraries Used
+We made a output website with HTML and CSS.
+
+## Libraries Used
+
+- TensorFlow : TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+- TensorFlow (Keras) : Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research. Keras is: Simple -- but not simplistic.
 
 - ELU : The Exponential Linear Unit (ELU) is an activation function for neural networks. In contrast to ReLUs, ELUs have negative values which allows them to push mean unit activations closer to zero like batch normalization but with lower computational complexity.
 
@@ -22,11 +27,11 @@ A web application where you upload pictorial drawings of major HTML components w
 
 - Sigmoid : The sigmoid function is a mathematical logistic function. It is commonly used in statistics, audio signal processing, biochemistry, and the activation function in artificial neurons. The formula for the sigmoid function is F(x) = 1/(1 + e^(-x)).
 
-#Deep Learning
+# Deep Learning
 
 - In deep learning we implemented CNN (Convolutional Neural Network) which is a class of deep neural network that is used for Computer Vision or analyzing visual imagery.
 
-#DATASET
+## DATASET
 
 We created 100+ handdrawn datasets with complete variations i.e., with complete and incomplete components.
 
