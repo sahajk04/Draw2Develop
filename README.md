@@ -10,7 +10,7 @@ A web application where you upload pictorial drawings of major HTML components w
 
 - Deep Learning Model : A trained DL model to capture drawn components.
 
--HTML Part : modular HTML componets with minimal CSS wich are independent and can be mixed with each other to create a web page.
+- HTML Part : modular HTML componets with minimal CSS wich are independent and can be mixed with each other to create a web page.
 
 # MODEL
 
